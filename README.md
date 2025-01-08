@@ -20,7 +20,7 @@
     </a>
     <a style="display: flex;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k13wk4&theme=neon" style="margin-right: 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=k13wk4&theme=neon">
+        <img src="https://github-readme-stats.vercel.app/api?username=k13wk4&show_icons=true&theme=neon">
     </a>
 </div>
 
